@@ -1,6 +1,6 @@
 Meu nome é Rebeca
 
-Estou estudando na Alura😎
+*Estou estudando na Alura😎*
 
 Estou me desenvolvendo na linguagem JavaScript✔✔
 
